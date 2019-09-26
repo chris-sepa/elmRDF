@@ -1,0 +1,23 @@
+{
+  "name": "elmrdf",
+  "version": "1.0.0",
+  "description": "Basic RDF editor",
+  "main": "elm.js",
+  "dependencies": {
+    "rdf-ext": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chris-sepa/elmRDF.git"
+  },
+  "author": "chris sweeney",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/chris-sepa/elmRDF/issues"
+  },
+  "homepage": "https://github.com/chris-sepa/elmRDF#readme"
+}
